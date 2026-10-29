@@ -1,3 +1,28 @@
+# Applied Energistics 2 contribution fork
+
+This is Jeremiah Bender's fork of
+[GTNewHorizons/Applied-Energistics-2-Unofficial](https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial),
+a Java Minecraft mod maintained by the GT New Horizons community. I use this
+fork to develop changes and submit pull requests to the upstream project.
+
+## Selected merged contributions
+
+- [Crafting diagnostics terminal #1210](https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/1210):
+  added searchable, sortable crafting quantity and processing-time statistics.
+- [Mixed-recipe crafting tree counts #1212](https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/1212):
+  fixed incorrect displayed item counts and added a JUnit regression test.
+- [Crafting plan percentage rounding #1201](https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/1201):
+  corrected floating-point artifacts in percentage displays, with in-game verification.
+
+These links point to contributions accepted into the upstream project. The
+full mod is the work of its original authors and community contributors.
+
+[All my upstream pull requests](https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pulls?q=is%3Apr+author%3AShadowQFT)
+
+## Upstream documentation
+
+The original project documentation, credits, and licensing information follow.
+
 [![Build Status](https://travis-ci.org/xsun2001/Applied-Energistics-2-Unofficial.svg?branch=rv3-1.7.10)](https://travis-ci.org/xsun2001/Applied-Energistics-2-Unofficial)
 [![Build status](https://ci.appveyor.com/api/projects/status/dkc9k9fvpajb374f?svg=true)](https://ci.appveyor.com/project/xsun2001/applied-energistics-2-unofficial)
 [![GitHub release](https://img.shields.io/github/release/xsun2001/Applied-Energistics-2-Unofficial.svg?style=flat)](https://github.com/xsun2001/Applied-Energistics-2-Unofficial/releases)
